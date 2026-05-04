@@ -1,0 +1,4 @@
+dataset,rows,columns,missing_values,duplicate_rows
+fear_greed_index,2644,4,0,0
+historical_data,211224,16,0,0
+merged_trade_level,211224,27,8231,0
